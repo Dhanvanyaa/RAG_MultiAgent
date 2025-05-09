@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+sentence-transformers
+nltk
+faiss-cpu
+scikit-learn

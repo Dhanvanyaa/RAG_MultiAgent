@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "agents"
+		},
+		{
+			"path": "chunks"
+		},
+		{
+			"path": "data"
+		},
+		{
+			"path": "embeddings"
+		}
+	]
+}
